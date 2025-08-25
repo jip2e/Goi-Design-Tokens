@@ -1,2 +1,2 @@
-# Goi-Design-Tokens
+# GoiDesignTokens
 Goi Design Tokens
